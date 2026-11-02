@@ -149,4 +149,4 @@ def shoulder_press_counter(
 #
 # 79° → 75° → 72°
 #
-# Now we are more confident that the person is really DOWN. রংগিলা ভাবি
+# Now we are more confident that the person is really DOWN
